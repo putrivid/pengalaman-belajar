@@ -1,12 +1,13 @@
 # Pengalaman Belajar di Dicoding
 
-**10 Februari 2024**<br>
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
-* Belajar tentang apa itu Java dan alasan menggunakannya.
-* Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+**12 Februari 2024**<br>
+Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progres 70%)
+* Memahami Kebutuhan Aplikasi.
+* Perencanaan Modifikasi Aplikasi.
+* Mengerti Konsep Dasar Pemrograman.
+* Modifikasi Aplikasi Perangkat Lunak.
 
 **13 Februari 2024**<br>
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
-* Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
-* Belajar control flow dalam Java, seperti perulangan dan percabangan.
-* Belajar tipe data koleksi, seperti list, set, dan map.
+Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progres 100%)
+* Dokumentasi Pemrograman dan Pengembangan Aplikasi Perangkat Lunak.
+* Ujian Akhir
